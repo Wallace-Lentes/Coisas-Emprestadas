@@ -1,0 +1,17 @@
+
+body{
+	background-color: black;
+	
+}
+a {
+ color: blue;
+}
+form{
+	color: red;
+	text-align: center;
+}
+h1{
+	color: green;
+	text-decoration: underline;
+	text-align: center;
+}

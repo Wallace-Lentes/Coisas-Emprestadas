@@ -1,0 +1,43 @@
+html{
+	height: 200px;
+}
+tr{
+	background-color: blue;	
+}
+a {
+ color: black;
+ }
+form{
+	color: black;
+	text-align: center;
+}
+h1{
+	color: black;
+	text-decoration: underline;
+	text-align: center;
+}
+h2{
+	color: white;
+	text-align: center;
+}
+body{
+	margin: 10px;
+	
+}
+td{
+	width:100px;
+	text-align:top;
+	height:20px;
+	
+}
+#table1{
+	 width: 1350px;
+	 height: 800px;
+}
+h3{
+	color: black;
+	text-align: center;
+}
+#table2{
+	border: 1px;
+}
